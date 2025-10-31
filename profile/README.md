@@ -24,4 +24,4 @@ All projects under **nxf-oss** are released under permissive open-source license
 
 ## Contact
 
-Visit [github.com/nxf-oss](https://github.com/nxf-oss) for active projects and repositories.
+Visit [github.com/nxf-oss/repositori](https://github.com/nxf-oss?tab=repositories) for active projects and repositories.
